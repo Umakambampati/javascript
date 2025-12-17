@@ -1,6 +1,7 @@
 import {foodItem} from './fooditems.js';
 
 
+
 console.log(foodItem);
 function displayItems(){
     var biryani=document.getElementById('biryani');
@@ -26,7 +27,7 @@ function displayItems(){
         category=='chinese');
         console.log(chineseData);
     const south_indian_Data=foodItem.filter(item=> item.
-        category=='south indian');
+        category=='south_indian');
         console.log(south_indian_Data);
 
     biryaniData.map(item=> {
@@ -468,7 +469,7 @@ function addEvents(){
 
 document.getElementById('add-address').addEventListener('click',addAddress);
 
-document.getElementById('m-add-address').addEventListener('click',addAddress);
+document.getElementById('m-your-address').addEventListener('click',addAddress);
 
 function addAddress(){
     var address= prompt('Enter your address','');

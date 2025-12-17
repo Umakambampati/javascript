@@ -95,7 +95,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 100,
-    img: 'images/chicken/chicken-Curry.jfif',
+    img: 'images/chicken/chicken-curry.jfif',
     quantity: 1
 },
 {
@@ -159,7 +159,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 150,
-    img: 'images/paneer/paner-butter-masala.jfif',
+    img: 'images/paneer/paneer-butter-masala.jfif',
     quantity: 1
 
 },
@@ -194,7 +194,6 @@ const foodItem= [
 {
     id: 22,
     name: 'Shahi Paneer',
-    age: '32',
     category : 'paneer',
     rating : 4.3,
     price: 50,
@@ -203,7 +202,7 @@ const foodItem= [
 },
 {
     id: 23,
-    name: 'Navratan Korma',
+    name: 'Navratam Korma',
     category : 'vegetable',
     rating : 4.3,
     price: 80,
@@ -225,7 +224,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 50,
-    img: 'images/vegetable/veg biryani.jfif',
+    img: 'images/vegetable/veg-biryani.jfif',
     quantity: 1
 },
 {
@@ -252,7 +251,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 40,
-    img: 'images/vegetable/veg masal.jfif',
+    img: 'images/vegetable/veg-masala.jfif',
     quantity: 1
 },
 {
@@ -306,7 +305,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 140,
-    img: 'images/chinese/spring rolls.jfif',
+    img: 'images/chinese/spring-rolls.jfif',
     quantity: 1
 },
 {
@@ -330,73 +329,73 @@ const foodItem= [
 {
     id: 37,
     name: 'Butter Masala Dosa',
-    category : 'south indian',
+    category : 'south_indian',
     rating : 4.3,
     price: 40,
-    img: 'images/south indian/butter-masala-dosa.jfif',
+    img: 'images/south_indian/butter-masala-dosa.jfif',
     quantity: 1
 },
 {
     id: 38,
     name: 'Idli',
-    category : 'south indian',
+    category : 'south_indian',
     rating : 4.3,
     price: 30,
-    img: 'images/south indian/idli-with-rice-flour.jfif',
+    img: 'images/south_indian/idli-with-rice-flour.jfif',
     quantity: 1
 },
 {
     id: 39,
     name: 'Masala Dosa',
-    category : 'south indian',
+    category : 'south_indian',
     rating : 4.3,
     price: 40,
-    img: 'images/south indian/masala-dosa.jfif',
+    img: 'images/south_indian/masala-dosa.jfif',
     quantity: 1
 },
 {
     id: 40,
     name: 'Mysore Bonda',
-    category : 'south indian',
+    category : 'south_indian',
     rating : 4.3,
     price: 30,
-    img: 'images/south indian/mysore-bonda.jfif',
+    img: 'images/south_indian/mysore-bonda.jfif',
     quantity: 1
 },
 {
     id: 41,
     name: 'Onion Uttapam',
-    category : 'south indian',
+    category : 'south_indian',
     rating : 4.3,
     price: 30,
-    img: 'images/south indian/onion-uttapam.jfif',
+    img: 'images/south_indian/onion-uttapam.jfif',
     quantity: 1
 },
 {
     id: 42,
     name: 'Plain Dosa',
-    category : 'south indian',
+    category : 'south_indian',
     rating : 4.3,
     price: 40,
-    img: 'images/south indian/plain-dosa.jfif',
+    img: 'images/south_indian/plain-dosa.jfif',
     quantity: 1
 },
 {
     id: 43,
     name: 'Rava Uttapam',
-    category : 'south indian',
+    category : 'south_indian',
     rating : 4.3,
     price: 25,
-    img: 'images/south indian/rava-dosa.jfif',
+    img: 'images/south_indian/rava-dosa.jfif',
     quantity: 1
 },
 {
     id: 44,
     name: 'Sambar Vada',
-    category : 'south indian',
+    category : 'south_indian',
     rating : 4.3,
     price: 34,
-    img: 'images/south indian/sambar-vada.jfif',
+    img: 'images/south_indian/sambar-vada.jfif',
     quantity: 1
 },
 ]
