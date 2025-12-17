@@ -242,7 +242,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 100,
-    img: 'images/vegetable/vegetable-kolhapur.jfif',
+    img: 'images/vegetable/vegetable-Kolhapur.jfif',
     quantity: 1
 },
 {
